@@ -21,4 +21,4 @@ SliverAppBar(
           ...
 ```
 You can check full example at https://github.com/DragonCherry/flutter_study.
-Run app > widget > sliver_app_bar_sample
+Run app > techinique > sliver_app_bar_sample
